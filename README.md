@@ -1,7 +1,7 @@
 ### Olá! Eu sou a ✨Michele Tiemi✨
 
-- 🔭 Hoje trabalho em uma empresa de Marketing Digital 
-- 🌱 Estudando ciência de dados e IA e outras linguagens principalmente Python 🐍
+- 🔭 Hoje trabalho como Desenvolvedora ABAP 
+- 🌱 Concluí a pós de ciência de dados e IA
 - ⚡ Já trabalhei como professora de língua japonesa 👩🏻‍🏫
 
 <div align="center">
